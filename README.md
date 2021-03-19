@@ -19,3 +19,7 @@ To launch a **public** Orbs node and participate in the v2 beta Orbs Proof-of-St
 ## Private Orbs network
 
 To launch a private replica of Orbs network in a permissioned setting, [read instructions here](private/orbs-private-blockchain.md).
+
+## ORBS Guardians portal
+
+To register on the guardians list or update info, [read instructions here](guardians-portal/README.md).
